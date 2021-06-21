@@ -1,4 +1,4 @@
-# database-analysis-project
+# data-analysis-project
 Data analysis using Python, Awk scripts, and Matplotlib
 
 
